@@ -11,7 +11,8 @@
 ### Resources
 - [Intro to Django](https://github.com/codefellows/seattle-code-python-401d24/blob/main/class-26/demo/DEMO-DJANGO.md)
 - [Intro to Tailwind](https://github.com/codefellows/seattle-code-python-401d24/blob/main/class-26/demo/DEMO-TAILWIND.md)
-- JB's demo, [Class 27](https://github.com/codefellows/seattle-code-python-401d24/tree/main/class-27/demo)
+- JB's demo, [Class 28](https://github.com/codefellows/seattle-code-python-401d24/tree/main/class-28/demo)
+- Demo styling, [Class 28](https://github.com/codefellows/seattle-code-python-401d24/tree/main/class-28/demos/things-crud/templates)
 - ChatGPT
 
 ## Setup
@@ -24,8 +25,8 @@
 ### Tests
 
 [snacks-crud/tests.py](https://github.com/lana-z/django-snacks/blob/main/snacks/tests.py)
-```python manage.py tests```
+```python manage.py test```
 
 ### Log
 
-- Wednesday: set up Django project
+- Wednesday: set up Django project, added CRUD, items and tests, attempted styling
