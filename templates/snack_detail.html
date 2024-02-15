@@ -1,0 +1,12 @@
+{% extends 'base.html' %}
+
+{% block content %}
+
+{% block content %}
+  <div class="w-1/2 mx-auto space-y-8">
+    <h1 class="text-4xl text-green-800">{{ snack.title }}</h1>
+    <img class="rounded-lg" src="{{ snack.image_url }}" alt=""/>
+    <p class="font-normal text-gray-700 dark:text-gray-400">{{ snack.description }}</p>
+    <!-- Link or other details specific to this snack -->
+  </div>
+{% endblock content %}
